@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Demo
+
 ## Setup
+![demo_receipes_shadcn:ui](https://github.com/swoichha/shadcn-demo/assets/17021686/caf41f83-90c6-4281-b1bc-ef67dc2b2322)
 
 Install JSON server
 
